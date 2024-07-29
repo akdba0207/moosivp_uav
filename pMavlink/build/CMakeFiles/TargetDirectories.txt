@@ -1,0 +1,3 @@
+/home/dbkros/pMavlink/build/CMakeFiles/pMavlink.dir
+/home/dbkros/pMavlink/build/CMakeFiles/edit_cache.dir
+/home/dbkros/pMavlink/build/CMakeFiles/rebuild_cache.dir

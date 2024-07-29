@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/iPX4.dir/main.cpp.o CMakeFiles/iPX4.dir/PX4.cpp.o CMakeFiles/iPX4.dir/PX4_Info.cpp.o -o /home/dbkros/bin/iPX4  /home/dbkros/moos-ivp/build/MOOS/MOOSCore/../../../lib/libmbutil.a /home/dbkros/moos-ivp/build/MOOS/MOOSCore/lib/libMOOS.a -lboost_system -pthread -lm 

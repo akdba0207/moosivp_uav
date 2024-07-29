@@ -1,0 +1,14 @@
+//------------------------------------------------
+// iPX4 config block
+
+ProcessConfig = iPX4
+{
+ 	//UDP_MODE    = True
+ 	//UDP_HOST = 127.0.0.1
+ 	//UDP_PORT = 14445
+ 	AppTick   = 4                                                 
+  	CommsTick = 4 
+ 	//SERIAL_NAME = /dev/ttyTHS2
+        //SERIAL_BAUD = 57600
+}
+
